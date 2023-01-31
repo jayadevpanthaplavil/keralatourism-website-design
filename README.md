@@ -1,4 +1,4 @@
-# ![Kerala Tourism Website Design](https://jayadevpanthaplavil.github.io/keralatourism-website-design/resources/images/demo/demo.png)
+# ![Kerala Tourism Website Design](https://jayadevpanthaplavil.github.io/keralatourism-website-design/resources/images/demo/demo.PNG)
 
 # Kerala Tourism Website Design
 
